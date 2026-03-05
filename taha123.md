@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">Full Stack Developer | Building Scalable Web Applications</h3>
+<h1 align="center">Hi 👋, I'm Taha Hussain</h1>
+<h3 align="center">Full Stack Developer & Ai | Building Scalable Web Applications</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
