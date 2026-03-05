@@ -12,7 +12,7 @@
 - 🔭 Currently working on **AI-powered web applications**
 - 🌱 Learning **Advanced Next.js, AI Integration, Microservices**
 - 💬 Ask me about **Next.js, React, Node.js, PostgreSQL**
-- 📫 Reach me: **your.email@example.com**
+- 📫 Reach me: **muntahahussainsample@gmail.com**
 - ⚡ Fun fact: **I automate everything!**
 
 ---
@@ -90,16 +90,21 @@ Headless CMS blog with Sanity and Next.js.
 
 ## 📫 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/taha-hussain-8a0732284/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taha-hussain-linkedin" height="30" width="40" />
-</a>
-<a href="https://x.com/Taha_Hussain258" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Taha_Hussain258" height="30" width="40" />
-</a>
-<a href="mailto:muntahahussainsample@gmail.com">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" />
-</a>
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/taha-hussain-8a0732284/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Taha Hussain LinkedIn" height="30" width="40" />
+  </a>
+
+  <!-- X / Twitter -->
+  <a href="https://x.com/Taha_Hussain258" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Taha Hussain X" height="30" width="40" />
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:muntahahussainsample@gmail.com">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email Taha Hussain" height="30" width="40" />
+  </a>
 </p>
 
 ---
